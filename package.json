@@ -2,9 +2,9 @@
   "name": "anna",
   "version": "0.0.1",
   "description": "<3",
-  "main": "server.js",
+  "main": "bot.js",
   "scripts": {
-     "start": "node server.js"
+     "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
